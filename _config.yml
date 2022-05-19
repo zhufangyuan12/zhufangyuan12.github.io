@@ -1,3 +1,7 @@
 theme: jekyll-theme-cayman
 title: 朱方圆的主页
 description: Bookmark this to keep an eye on my project updates!
+deploy:
+  type: git
+  repo: git@github.com:zhufangyuan12.github.io.git
+  branch: master
